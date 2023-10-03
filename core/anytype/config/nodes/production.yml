@@ -2,16 +2,16 @@ networkId: N6PqLuTEdzEQ6YXzEnaopV7E33umyUULMTpAxXnUk4RmbgQq
 nodes:
     - peerId: 12D3KooWLNY6yzTy1bRrB173SHjMHVb13SX2hMzsGXA6fGRvp121
       addresses:
-        - 192.168.0.148:4830
+        - steamdeck:4830
       types:
         - coordinator
     - peerId: 12D3KooWNuHt5Z2bbYCEvZCJfgguRMMLyCQu4aZTyKmLp329Dmvk
       addresses:
-        - 192.168.0.148:4430
+        - steamdeck:4430
       types:
         - tree
     - peerId: 12D3KooWJk5PMxov5DdRp8PssruAfaAk2UGvkhUi7PgZA2HU1S6B
       addresses:
-        - 192.168.0.148:4730
+        - steamdeck:4730
       types:
         - file
